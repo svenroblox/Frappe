@@ -20,4 +20,5 @@ Open-Sourced projects are **magical**!
 
 We use an open-sourced documentation service (wiki.js) to help you!
 
-[our docs](https://frappe-docs.herokuapp.com)
+![wikijs logo](github.com/svenroblox/frappe/wikijs-butterfly.png)
+[Go to](https://frappe-docs.herokuapp.com)
