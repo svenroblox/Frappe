@@ -20,5 +20,4 @@ Open-Sourced projects are **magical**!
 
 We use an open-sourced documentation service (wiki.js) to help you!
 
-[visit](js.wiki)
-[our docs](frappe-docs.herokuapp.com)
+[our docs](https://frappe-docs.herokuapp.com)
